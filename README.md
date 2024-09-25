@@ -1,0 +1,1 @@
+Designed and implemented an electronic toll collection system utilizing RFID technology to enhance vehicular traffic management. The project aimed to reduce congestion and improve user convenience, ultimately saving time for commuters through efficient vehicle tracking.
